@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Oasis Day Spa</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtTitle">Oasis Day Spa in Historic Dublin, Ireland</string>
+    <string name="btnDate">Reserve a Full-Day Body Spa Treatment</string>
+    <string name="txtDescription">Oasis is a full-service day spa providing a refreshing, modern and rejuvenating environment right next to the famous Dublin Castle. Oasis is a complete body shop carrying over 30 lines of conditioning, innovative and effective skin, nail and hair care products.</string>
+	<string name="txtAddress">845 Dawson Street Dublin, Ireland +383 1 555 7834</string>
+</resources>
